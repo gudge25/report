@@ -57,6 +57,7 @@ foreach($arr as $key => $value )
     
     echo $str.'<br>';
 }
+echo '</table>';
 
 
 // функция колличества строк
