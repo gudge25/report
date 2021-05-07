@@ -1,0 +1,2 @@
+{"port":"11","message":"Na Vashomu rahunku 200.02 grn. Taryf 'Vodafone SuperNet Unlim'. Nomer diysnyi do 17.04.2022 00:00:00. ","time":"2014-01-10 22:30:31","key":"null"}
+{"port":"12","message":"Na Vashomu rahunku 100.00 grn. Taryf 'Vodafone SuperNet Unlim'. Nomer diysnyi do 17.04.2022 00:00:00. ","time":"2014-01-10 22:30:31","key":"null"}
