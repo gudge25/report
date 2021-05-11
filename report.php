@@ -99,6 +99,6 @@ function lines($file)
     $lines = count($file_arr); 
     return $lines; 
 } 
-echo '<style>table, th, td {border: 1px solid black;}</style>';
+echo '<style>table, th, td {border: 1px solid black; border-collapse: collapse; }</style>';
 
 ?>
